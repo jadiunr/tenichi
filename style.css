@@ -1,0 +1,16 @@
+body {
+  background-color: #FFF;
+}
+
+#word {
+  font-size: 4em;
+  line-height: 1.5em;
+  text-align: center;
+  margin-top:  18%;
+  animation: fadein 2s;
+}
+
+@keyframes fadein {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}

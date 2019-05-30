@@ -1,0 +1,9 @@
+{
+   "manifest_version": 2,
+   "version": "0.1",
+   "name": "天一であっさりを頼む奴",
+   "description": "天一であっさりを頼む奴にありがちな200の特徴を新しいタブに表示",
+   "chrome_url_overrides": {
+      "newtab": "index.html"
+   }
+}
